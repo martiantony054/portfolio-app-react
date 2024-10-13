@@ -21,7 +21,7 @@ import jslogo from "/javascript-155-svgrepo-com.svg"
 import tclogo from "/tailwindcss-svgrepo-com.svg"
 import pr4img from "/Screenshot 2024-10-13 145257.png"
 import pr5img from "/Screenshot 2024-10-13 145802.png"
-import pr6img from "/Screenshot 2024-10-13 150326.png"
+import pr6img from "/Screenshot 2024-10-13 150326.png" 
 import resume from "/resume.pdf"
 function Home({ f }) { 
   const [open, setOpen] = React.useState(false);

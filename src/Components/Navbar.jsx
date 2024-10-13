@@ -86,7 +86,7 @@ function NavbarDef() {
           Blocks
         </a>
       </Typography>
-      <Typography
+      <Typography 
         as="li"
         variant="small"
         color="blue-gray"

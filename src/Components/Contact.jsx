@@ -6,6 +6,6 @@ function Contact() {
       <h1 className='text-white'>contact</h1>
     </div>
   )
-}
+} 
 
 export default Contact
